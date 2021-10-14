@@ -1,4 +1,4 @@
-<!--img src="https://github.com/z-jie-web/z-jie-web/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px"-->
+<!--img src="./sunrise_clickedbyme.jpeg?raw=true" width="1000px"-->
 
 <div align="center" width="50">
 
@@ -23,11 +23,11 @@
 
 <hr></hr>
 
--  <img alt="GIF" src="https://github.com/z-jie-web/z-jie-web/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **CPP, Flutter & WebDev**. <img width="15%" align="right" alt="Github Image" src="https://github.com/z-jie-web/z-jie-web/blob/main/images/linux_rounded.gif?raw=true" /><br>
-- <img src="https://github.com/z-jie-web/z-jie-web/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/z-jie-web/z-jie-web/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/z-jie-web/z-jie-web/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/pik0chu007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/z-jie-web/z-jie-web/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+-  <img alt="GIF" src="./images/Developer.gif" width="25" /> &nbsp; I’m currently learning **CPP, Flutter & WebDev**. <img width="15%" align="right" alt="Github Image" src="./images/linux_rounded.gif?raw=true" /><br>
+- <img src="./images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="./images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="./images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/pik0chu007)**<br>
+- &nbsp;&nbsp;<img src="./images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
   
@@ -40,8 +40,8 @@
 
 <hr></hr>
 
-<img src="https://github.com/z-jie-web/z-jie-web/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/z-jie-web" />
-<img src="https://github.com/z-jie-web/z-jie-web/blob/main/images/this_page_is.gif?raw=true"  width="400"/>
+<img src="./images/dino_rounded.gif?raw=true" href="https://github.com/z-jie-web" />
+<img src="./images/this_page_is.gif?raw=true"  width="400"/>
 
 </div>
 

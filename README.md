@@ -11,22 +11,20 @@
 
 <!--img alt="Spotify" src="https://spotify-readme.z-jie-web.vercel.app/api/spotify" href="https://open.spotify.com/user/somnathpaul" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
 
-[![Spotify](https://spotify-readme.z-jie-web.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-
 <!--https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif -->
-
+<!-- 
 ![](https://komarev.com/ghpvc/?username=z-jie-web&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fz-jie-web&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-[![telegram badge](https://img.shields.io/badge/z-jie-web-grey?style=flat&logo=telegram)](https://t.me/pik0chu007) <br>
+[![telegram badge](https://img.shields.io/badge/z-jie-web-grey?style=flat&logo=telegram)](https://t.me/pik0chu007) <br> -->
 
 </div>
 
 <hr></hr>
 
--  <img alt="GIF" src="./images/Developer.gif" width="25" /> &nbsp; I’m currently learning **CPP, Flutter & WebDev**. <img width="15%" align="right" alt="Github Image" src="./images/linux_rounded.gif?raw=true" /><br>
-- <img src="./images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+-  <img alt="GIF" src="./images/Developer.gif" width="25" /> &nbsp; I’m currently learning **NODE, Flutter & VUE**. <img width="15%" align="right" alt="Github Image" src="./images/linux_rounded.gif?raw=true" /><br>
+- <img src="./images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **REACT**. <br>
 - <img src="./images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="./images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/pik0chu007)**<br>
+- <img src="./images/letterbox.gif?raw=true" width="25" /> &nbsp; I'll tell you **I don't even know**<br>
 - &nbsp;&nbsp;<img src="./images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >

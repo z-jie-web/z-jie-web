@@ -2,11 +2,11 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/z-jie-web/z-jie-web/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/z-jie-web" alt="Hello Coders" width="625"/> <br>
-<img src="https://github.com/z-jie-web/z-jie-web/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/z-jie-web" alt="CoDiNg RocKs"  width="550"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="625"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
   
-#### 2nd year BCA student. During day, assisting 
-#### my father at his shop & Coder at night.
+#### 3 year Coders 
+#### Life Code Music Basketball Game.
 ### Vibing to : 🎧  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->
 
 <!--img alt="Spotify" src="https://spotify-readme.z-jie-web.vercel.app/api/spotify" href="https://open.spotify.com/user/somnathpaul" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
